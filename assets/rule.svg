@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 3" width="880" height="3" role="presentation">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#8b949e" stop-opacity="0" />
+      <stop offset="50%"  stop-color="#8b949e" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#8b949e" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#fff" stop-opacity="0" />
+      <stop offset="10%"  stop-color="#fff" stop-opacity="1" />
+      <stop offset="90%"  stop-color="#fff" stop-opacity="1" />
+      <stop offset="100%" stop-color="#fff" stop-opacity="0" />
+    </linearGradient>
+    <mask id="m"><rect width="880" height="3" fill="url(#edge)" /></mask>
+  </defs>
+  <style>
+    .base { stroke: #30363d; }
+    @media (prefers-color-scheme: light) { .base { stroke: #d8dee4; } }
+    .sweep { animation: slide 7s linear infinite; }
+    @keyframes slide { from { transform: translateX(-260px); } to { transform: translateX(880px); } }
+    @media (prefers-reduced-motion: reduce) { .sweep { animation: none; opacity: .5; } }
+  </style>
+  <g mask="url(#m)">
+    <line x1="0" y1="1.5" x2="880" y2="1.5" class="base" stroke-width="1" />
+    <rect class="sweep" x="0" y="0.6" width="240" height="1.6" fill="url(#g)" />
+  </g>
+</svg>
