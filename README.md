@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/akshat-bajpai/akshat-bajpai/main/assets/header.svg" width="100%" alt="Akshat Bajpai — Computer Science × Economics, IIIT Delhi" />
+  <img src="https://raw.githubusercontent.com/akshat-bajpai/akshat-bajpai/main/assets/header.svg?v=5" width="100%" alt="Akshat Bajpai — Computer Science × Economics, IIIT Delhi" />
 </div>
 
 <br />
@@ -93,23 +93,24 @@ Off the keyboard: piano, santoor, badminton, and a 3×3 that never quite gets pu
 <br />
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=akshat-bajpai&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=8b949e&icon_color=6e7681&ring_color=8b949e&title_color=8b949e" alt="GitHub statistics" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-bajpai&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=8b949e" alt="Most used languages" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akshat-bajpai&bg_color=00000000&color=8b949e&line=8b949e&point=e6edf3&area=true&area_color=30363d&title_color=8b949e&hide_border=true&custom_title=commits" alt="Contribution activity over the last year" />
+  <img width="100%" src="https://raw.githubusercontent.com/akshat-bajpai/akshat-bajpai/output/stats.svg" alt="Repositories, contributions, streak, stars and language mix" />
 </div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/akshat-bajpai/akshat-bajpai/main/assets/rule.svg" width="100%" alt="" />
 </div>
 
+### `// leetcode`
+
+<div align="center">
+  <a href="https://leetcode.com/u/akspai/"><img width="100%" src="https://raw.githubusercontent.com/akshat-bajpai/akshat-bajpai/output/leetcode.svg" alt="LeetCode problems solved by difficulty" /></a>
+</div>
+
 ### `// elsewhere`
 
 <p>
   <a href="https://codeforces.com/profile/akspai"><img src="https://img.shields.io/badge/Codeforces-akspai-161b22?style=flat-square&logo=codeforces&logoColor=EDEDED&labelColor=161b22" alt="Codeforces" /></a>
-  <a href="https://leetcode.com/u/akshat-bajpai/"><img src="https://img.shields.io/badge/LeetCode-profile-161b22?style=flat-square&logo=leetcode&logoColor=EDEDED&labelColor=161b22" alt="LeetCode" /></a>
+  <a href="https://leetcode.com/u/akspai/"><img src="https://img.shields.io/badge/LeetCode-akspai-161b22?style=flat-square&logo=leetcode&logoColor=EDEDED&labelColor=161b22" alt="LeetCode" /></a>
   <a href="https://www.linkedin.com/in/akshat-bajpai/"><img src="https://img.shields.io/badge/LinkedIn-connect-161b22?style=flat-square&logo=linkedin&logoColor=EDEDED&labelColor=161b22" alt="LinkedIn" /></a>
   <a href="mailto:akshat22047@iiitd.ac.in"><img src="https://img.shields.io/badge/Email-say%20hello-161b22?style=flat-square&logo=maildotru&logoColor=EDEDED&labelColor=161b22" alt="Email" /></a>
 </p>
